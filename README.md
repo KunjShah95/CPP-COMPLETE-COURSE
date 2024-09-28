@@ -21,6 +21,7 @@ To run this application, you need:
    git clone https://github.com/yourusername/bank-management-system.git
 2. Navigate to the project directory:
 cd bank-management-system
+
 Compilation
 To compile the application, run the following command:
 g++ -o bank_management_system main.cpp
@@ -33,9 +34,12 @@ After compiling, you can run the application with:
 Usage
 Launch the application.
 Code Structure
-Bank Class: Contains methods for setting account details, showing account information, depositing, withdrawing, and checking balance.
-Main Function: Provides a menu-driven interface for user interaction.
+Bank Class:
+ Contains methods for setting account details, showing account information, depositing, withdrawing, and checking balance.
+Main Function: 
+Provides a menu-driven interface for user interaction.
 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
-LicenseThis project is licensed under the MIT License - see the LICENSE  file for details.
+License
+This project is licensed under the MIT License - see the LICENSE  file for details.
 AcknowledgmentsInspired by various online resources and tutorials.Thanks to the open-source community for their contributions.
