@@ -31,10 +31,3 @@ After compiling, you can run the application with:
 
 
 ![image](https://github.com/user-attachments/assets/82249406-5201-48c1-8002-4dd3792c4ccd)
-Usage
-Launch the application.
-Code Structure
-Bank Class:
- Contains methods for setting account details, showing account information, depositing, withdrawing, and checking balance.
-Main Function: 
-Provides a menu-driven interface for user interaction.
