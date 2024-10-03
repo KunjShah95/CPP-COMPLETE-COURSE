@@ -15,7 +15,7 @@ C++ compiler (e.g. GCC)
 A text editor or IDE (e.g. Visual Studio Code, Sublime Text)
 Installation:
 
-Clone this repository using git clone https://github.com/your-username/employee-record-management-system.git
+Clone this repository using git clone https://github.com/KunjShah95/CPP-COMPLETE-COURSE/edit/main/PROJECT/employee%20management%20systen.git
 Navigate to the project directory using cd employee-record-management-system
 Compile the program using g++ main.cpp -o employee_record_management_system
 Run the program using ./employee_record_management_system
