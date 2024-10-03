@@ -16,11 +16,15 @@ A text editor or IDE (e.g. Visual Studio Code, Sublime Text)
 Installation:
 
 Clone this repository using git clone
+
 Navigate to the project directory using 
 cd employee-record-management-system
+
 Compile the program using 
 g++ main.cpp -o employee_record_management_system
-Run the program using ./employee_record_management_system
+
+Run the program using 
+./employee_record_management_system
 Usage:
 
 Run the program and select an option from the menu:
