@@ -15,6 +15,7 @@ C++ compiler (e.g. GCC)
 A text editor or IDE (e.g. Visual Studio Code, Sublime Text)
 Installation:
 
+<<<<<<< HEAD:PROJECT/employee management systen/reaadme.md
 Clone this repository using git clone 
 Navigate to the project directory using 
 cd employee-record-management-system
@@ -22,6 +23,18 @@ Compile the program using
  g++ main.cpp -o employee_record_management_system
 Run the program using
  ./employee_record_management_system
+=======
+Clone this repository using git clone
+
+Navigate to the project directory using 
+cd employee-record-management-system
+
+Compile the program using 
+g++ main.cpp -o employee_record_management_system
+
+Run the program using 
+./employee_record_management_system
+>>>>>>> 3d3dd10a4e7828c68609a8e12a43ede988c07449:PROJECT/employee management systen/README.md
 Usage:
 
 Run the program and select an option from the menu:
