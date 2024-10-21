@@ -67,6 +67,7 @@ void enter(){
             std::cout << "Enter Email: " << std::endl;
 
             std::cin >> email[i];
+            std::cout<<"Enter "
         }
     }
     else
